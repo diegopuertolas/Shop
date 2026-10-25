@@ -10,3 +10,5 @@ var articles = new List<Article>
     pc, 
     ps5
 };
+
+AppMenu.DisplayMenu(articles);
